@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Name : Protyush Mitra
+
+Education : VIT Bhopal University | B.Tech in CSE(AIML) | 2025 - 2029
+
+I am excited to explore how AI can solve real world problems
 <!--
 **Protyush7/Protyush7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
